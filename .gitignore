@@ -129,3 +129,14 @@ dmypy.json
 .pyre/
 
 .vscode/
+*.code-workspace
+
+# Local History VSC
+.history/
+
+.mypy_cache
+
+# static/
+# yatube/posts/static/
+yatube/media/
+
